@@ -24,7 +24,7 @@ import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 import android.util.Log;
 
-import com.android.internal.util.cr.FileUtils
+import com.android.internal.util.cr.FileUtils;
 
 public class Constants {
 
